@@ -6,7 +6,7 @@ Build an analytics dashboard in React for a Shopify app that provides insights i
 ---
 
 ## Time Estimate
-Approximately **60 minutes**
+Approximately **60-120 minutes**
 
 ---
 
